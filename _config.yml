@@ -1,0 +1,12 @@
+# Site settings
+title: Moin - Hennings Website
+email: info@slacktime.de
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: henning223
+github_username: henningmeier
+
+# Build settings
+markdown: kramdown
